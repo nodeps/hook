@@ -1,7 +1,7 @@
 # hook
-#start:
+# start:
 nohup node hook.js &
-#stop
+# stop
 fg
-#查看任务
+# 查看任务
 jobs
